@@ -1,0 +1,1 @@
+Com este script, você consegue inundar várias mensagens em alguma caixa de perguntas anônimas de alguém do ngl.app. Você insere o Nome de Usuário da pessoa, a Mensagem que você quer inundar e a Quantidade que você vai enviar. O script vai procurar a caixa de perguntas da conta e começará o spammer. Este script é educacional e foi totalmente criado por @wandson.dev.
